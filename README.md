@@ -1,6 +1,6 @@
 # bluemoney
 
-<img align="right" src="src/assets/logo.svg" width="35%" alt="blue money">
+<img align="right" src="src/assets/Logo.svg" width="35%" alt="blue money">
 
 ## Tópicos 
 
