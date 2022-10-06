@@ -67,5 +67,5 @@ yarn start
 
 Feito com :blue_heart: by [Vagner Santos](https://github.com/vagner531)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnersantosnascimento/)](https://www.linkedin.com/in/vagnersantosnascimento/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vganerndsantos@gmail.com)](mailto:vagnerndsantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-75DBCD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnersantosnascimento/)](https://www.linkedin.com/in/vagnersantosnascimento/) 
+[![Gmail Badge](https://img.shields.io/badge/-vagnerndsantos@gmail.com-75DBCD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vganerndsantos@gmail.com)](mailto:vagnerndsantos@gmail.com)
