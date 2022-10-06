@@ -1,6 +1,6 @@
 # bluemoney
 
-<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
+<img align="right" src="src/assets/logo.svg" width="35%" alt="blue money">
 
 ## Tópicos 
 
@@ -16,13 +16,9 @@
 
 ## Sobre o blue money
 
-O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
+O bluemoney é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
 <br>
-
-<p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
-</p>
 
 ## Tecnologias
 
@@ -57,15 +53,10 @@ yarn start
 <br>
 
 
-## Licença
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
-</a>
-
 <br>
 
 
 Feito com :blue_heart: by [Vagner Santos](https://github.com/vagner531)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-75DBCD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnersantosnascimento/)](https://www.linkedin.com/in/vagnersantosnascimento/) 
-[![Gmail Badge](https://img.shields.io/badge/-vagnerndsantos@gmail.com-75DBCD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vganerndsantos@gmail.com)](mailto:vagnerndsantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-0d99ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnersantosnascimento/)](https://www.linkedin.com/in/vagnersantosnascimento/) 
+[![Gmail Badge](https://img.shields.io/badge/-vagnerndsantos@gmail.com-0d99ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vganerndsantos@gmail.com)](mailto:vagnerndsantos@gmail.com)
