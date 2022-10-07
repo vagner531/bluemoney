@@ -3,7 +3,7 @@
 
 ## Tópicos 
 
-[Sobre o dt money](#sobre-o-blue-money)
+[Sobre o blue money](#sobre-o-blue-money)
 
 [Tecnologias](#tecnologias)
 
