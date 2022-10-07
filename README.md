@@ -1,10 +1,9 @@
-# bluemoney
 
 <img align="right" src="src/assets/Logo.svg" width="35%" alt="blue money">
 
 ## Tópicos 
 
-[Sobre o dt money](#sobre-o-dt-money)
+[Sobre o dt money](#sobre-o-blue-money)
 
 [Tecnologias](#tecnologias)
 
@@ -19,6 +18,10 @@
 O bluemoney é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
 <br>
+
+<p align="center">
+  <img src=".github/cover.png" alt="Página inicial">
+</p>
 
 ## Tecnologias
 

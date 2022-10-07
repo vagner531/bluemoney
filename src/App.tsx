@@ -1,8 +1,11 @@
-import './App.css';
+import { Header } from "./components/Header";
+import { GlobalStyle } from "./styles/global";
 
-function App() {
+export function App() {
   return (
-    <h1>Hello Word</h1>
+    <>
+      <Header />
+      <GlobalStyle />
+    </>
   );
 }
-export default App;
