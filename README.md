@@ -20,7 +20,7 @@ O bluemoney é uma alternativa simples e eficaz para gerenciar suas finanças, p
 <br>
 
 <p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
+  <img src=".github/bg-git.jpg" alt="Página inicial">
 </p>
 
 ## Tecnologias
