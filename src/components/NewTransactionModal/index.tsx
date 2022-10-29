@@ -1,5 +1,8 @@
 import Modal from 'react-modal';
-import { Container } from './styles';
+import incomeImg from '../../assets/entrada.svg'
+import outcomeImg from '../../assets/saida.svg'
+import closeImg from '../../assets/fechar.svg';
+import { Container, TransactionTypeContainer } from './styles';
 
 interface NewTransactionModalProps {
   isOpen: boolean;
@@ -8,34 +11,57 @@ interface NewTransactionModalProps {
 
 export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionModalProps) {
   return (
-    
+
     <Modal
-    isOpen={isOpen}
-    onRequestClose={onRequestClose}
-    overlayClassName="react-modal-overlay"
-    className="react-modal-content"
+      isOpen={isOpen}
+      onRequestClose={onRequestClose}
+      overlayClassName="react-modal-overlay"
+      className="react-modal-content"
     >
-      
-    <Container>
-    <h2>Cadastrar Transação</h2>
+      <button
+        type="button"
+        onClick={onRequestClose}
+        className="react-modal-close"
+        >
+        <img src={closeImg} alt="Fechar Modal" />
+      </button>
 
-    <input 
-      type="Titulo"
-    />
+      <Container>
+        <h2>Cadastrar Transação</h2>
 
-    <input
-      type="number"
-      placeholder="Valor" 
-    />
+        <input
+          type="Titulo"
+        />
 
-    <input
-      placeholder="Categoria" 
-    />   
+        <input
+          type="number"
+          placeholder="Valor"
+        />
 
-    <button type="submit">
-      Cadastrar
-    </button>
-    </Container>
-  </Modal>
+        <TransactionTypeContainer>
+          <button
+            type="button"
+          >
+            <img src={incomeImg} alt="entrada" />
+            <span>Entrada</span>
+          </button>
+
+          <button
+            type="button"
+          >
+            <img src={outcomeImg} alt="saida" />
+            <span>Entrada</span>
+          </button>
+        </TransactionTypeContainer>
+
+        <input
+          placeholder="Categoria"
+        />
+
+        <button type="submit">
+          Cadastrar
+        </button>
+      </Container>
+    </Modal>
   );
 }
